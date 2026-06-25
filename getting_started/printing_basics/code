@@ -1,0 +1,8 @@
+#include <iostream>
+
+int main() 
+{
+    // Output your message:
+    std::cout << "goodluck nak jadi AI engineer ";
+    std::cout<<"semoga maju jaya!!!!";
+}
